@@ -4,3 +4,22 @@
     margin: 0 auto;
     background-color: lightblue;
 }
+.block {
+    width: 270px;
+    height: 270px;
+    background-color:blue;
+}
+.row1 {
+    display: flex;
+    justify-content: space-between;
+}
+.blue-box {
+    background-color: gray;
+}
+.feri {
+    background-color: white;
+}
+.shua {
+    display: flex;
+    justify-content: space-between;
+}
