@@ -1,3 +1,18 @@
+/*header*/
+.navigation {
+    display: flex;
+    
+}
+.watch {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav {
+    display: inline-block;
+    
+}
+
+
 /* section */
 .conteiner {
     width: 900px;
