@@ -1,14 +1,18 @@
-/*header*/
-.navigation {
-    display: flex;
+.cent {
+   
+       
+}
     
 }
 .watch {
+    
+
     display: flex;
     justify-content: flex-end;
 }
-.nav {
-    display: inline-block;
+.flex {
+    display: flex;
+    justify-content: space-around;
     
 }
 
