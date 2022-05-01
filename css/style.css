@@ -1,20 +1,37 @@
-.cent {
-   
-       
-}
-    
-}
-.watch {
-    
-
+.conteiner1 {
+    width: 1250px;
+    margin: 150px auto;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: flex-start;
 }
+.paragraf {
+    width: 600px;
+}
+.paragraf1 {
+    width: 600px;
+    font-size: 68px;
+    line-height: 109px;
+    font-family: 'Lato';
+   
+}
+.paragraf2 {
+    width: 650px;
+    font-size: 22px;
+
+}
+.imag-size {
+    width: 450px;
+}
+
+
+
 .flex {
     display: flex;
-    justify-content: space-around;
-    
+    justify-content: end;
+    margin: 40px;
 }
+
 
 
 /* section */
